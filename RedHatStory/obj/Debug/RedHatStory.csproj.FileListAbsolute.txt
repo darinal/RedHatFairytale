@@ -1,0 +1,6 @@
+D:\Study\cources\qa\RedHatStory\RedHatStory\bin\Debug\RedHatStory.exe.config
+D:\Study\cources\qa\RedHatStory\RedHatStory\bin\Debug\RedHatStory.exe
+D:\Study\cources\qa\RedHatStory\RedHatStory\bin\Debug\RedHatStory.pdb
+D:\Study\cources\qa\RedHatStory\RedHatStory\obj\Debug\RedHatStory.csprojResolveAssemblyReference.cache
+D:\Study\cources\qa\RedHatStory\RedHatStory\obj\Debug\RedHatStory.exe
+D:\Study\cources\qa\RedHatStory\RedHatStory\obj\Debug\RedHatStory.pdb
